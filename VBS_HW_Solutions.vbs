@@ -1,4 +1,4 @@
-Sub Stock_Test()
+Sub Stock_analyzer()
 For Each ws In Worksheets
 
 'Variables-------------------------------
